@@ -1,0 +1,332 @@
+* {
+    font-family: 'Encode Sans', sans-serif;
+    margin: 0;
+    text-decoration: none;
+    color: #303134;
+
+}
+
+
+.cxmae {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cxfilhologo {
+    margin: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+.cxfilhoindice {
+    display: flex;
+    justify-content: center;
+    font-size: 19px;
+    font-weight: 700;
+    border-top: 1px solid #E5E5E5;
+    border-bottom: 1px solid #E5E5E5;
+    padding: 1%;
+    width: 100%
+}
+
+.cxfilhoindice > div{
+    width: 1250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.g1 {
+    color: #C3170C;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.oglobo {
+    color: #1E4B9B;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.valor {
+    color: #006766;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.ge {
+    color: #07AA47;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.cartola {
+    color: #E3662B;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.globoplay {
+    color: #FB0735;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.dropz {
+    color: #FF75BB;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.gshow {
+    color: #EC7D00;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.quem {
+    color: #323333;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+.receitas {
+    color: #A81D83;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 40px;
+
+}
+
+
+.cxfilhonoticias {
+
+    max-width: 1250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-content: center;
+    text-decoration: none;
+    height: 100%;
+
+
+}
+
+
+
+.cxmanchete {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: self-start;
+    padding-bottom: 15px;
+    margin-top: 25px;
+    text-decoration: none;
+
+
+}
+
+.txtmanchete {
+    color: #C4160C;
+    font-size: 52px;
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+
+.txttitulo1 {
+    margin: 1px;
+    color: #303134;
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-start;
+    font-weight: 500;
+
+
+}
+
+.imgfila {
+    width: 193px;
+    height: 110px;
+    border-radius: 12px;
+}
+
+
+.cxfilamae {
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+
+}
+
+
+.cxfila {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+
+
+/*materias da primeira coluna*/
+.cl1 {
+
+    display: flex;
+    flex-direction: column;
+    width: 193px;
+    padding: 2px;
+
+}
+
+
+
+
+.cxfila2 {
+    display: flex;
+    margin-top: 17px;
+    justify-content: space-between;
+}
+
+
+.cxlinhamae {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.cxlinha {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    justify-content: space-between;
+
+
+}
+
+.ln1 {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+
+}
+
+.ln2 {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.imglinha {
+    width: 240px;
+    height: 128px;
+    border-radius: 12px;
+
+
+}
+
+
+
+.cxlinha2 {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0px 5px 10px;
+    justify-content: space-between;
+}
+
+h4 {
+
+    color: #C4170C;
+    font-size: 14px;
+    margin-top: 5px;
+    font-weight: 500;
+}
+
+h3 {
+
+    color: #2F3134;
+    font-size: 20px;
+    margin-top: 5px;
+    font-weight: 700;
+
+
+}
+
+h6 {
+
+    font-size: 14px;
+    color: #2F3134;
+    margin-top: 3px;
+    font-weight: 400;
+
+
+
+}
+
+.esporte {
+    color: #16AE54;
+}
+
+.entretenimento {
+    color: #EC8006;
+}
+
+.linha1 {
+    border: none;
+    border-top: 1px solid #EBEDEF;
+    margin: 10px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+
+
+}
+
+.linha2 {
+    border: none;
+        border-top: 1px solid #EBEDEF;
+        margin: 10px;
+        height: 0.25em;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+.linha3 {
+    margin: 20;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 1px solid #EBEDEF;
+    
+}
+
